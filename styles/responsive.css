@@ -1,0 +1,15 @@
+@media(max-width:800px){
+    .naviga{
+        display:none;
+    }
+    .bar{
+        display:block;
+    }
+    .nav-ul{
+        flex-direction:column;
+        align-items: center;
+    }
+    .naviga.burgeriii{
+        display: block;
+    }
+}
